@@ -13,7 +13,7 @@
 <br></br><br></br><br></br>
 <br></br><br></br><br></br>
 
-<b>Movies</b>
+<b align="left">Movies</b>
 <p>I worked in a Movies Api, using React-Redux. You can search movies, add to favorites, and see all the details of them.<a href="https://github.com/davidheredia25/Movies-app">Code</a></p>
 <img align="left" src= "https://user-images.githubusercontent.com/74629753/140525504-1274b777-5410-4b14-8db6-856c7b0b387f.PNG" height="200px" width="380px" /> <img align="right" src= "https://user-images.githubusercontent.com/74629753/140525524-bb3ca561-689c-4368-87e8-dc549e9ad885.PNG" height="200px" width="380px" />
 <br></br><br></br><br></br>
