@@ -4,7 +4,7 @@
 <img align="left" src= "https://user-images.githubusercontent.com/74629753/140514947-5115af1e-445e-4fcd-9305-50bdb1670e4a.png" height="200px" width="380px" /> <img align="right" src= "https://user-images.githubusercontent.com/74629753/140514972-86640b79-94eb-45dd-abaf-3004885b19fc.png" height="200px" width="380px" />
 <br></br><br></br><br></br>
 <br></br><br></br><br></br>
-<h1>Works</h1>
+{/*<h1>Works</h1>
 <b>PokeApi</b>
 <p>I worked SPA that consumes data from an API (https://pokeapi.co), using PostgreSQL, Sequalize, Node.js, Express, React, Redux and pure CSS. You can see the Pokémon, search for a specific Pokémon, sort them, filter them, and create new ones. <a style="color: red;" href="https://github.com/davidheredia25/PI-Pokemon-FT17a">Code</a>-<a href="https://www.youtube.com/watch?v=e9-TloUKjIw">Video</a></p>
 <img align="left" src= "https://user-images.githubusercontent.com/74629753/140519463-82e89d31-fcdb-4a90-855d-62bd70ad1015.png" height="200px" width="380px" /> <img align="right" src= "https://user-images.githubusercontent.com/74629753/140519511-9007c78c-f2b0-46c8-a031-c3c0d42bdbcc.png" height="200px" width="380px" />
@@ -36,5 +36,5 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>*/}
 
